@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "task": "Study JavaScript",
+      "category": "Faculdade",
+      "finished": false
+    },
+    {
+      "id": "5b9c",
+      "task": "Teste",
+      "category": "laisure",
+      "finished": false
+    },
+    {
+      "id": "aa9d",
+      "task": "Workout harder",
+      "category": "gym",
+      "finished": false
+    }
+  ]
+}
