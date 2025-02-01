@@ -12,7 +12,7 @@ body{
   max-width: 900px;
   margin: 2rem auto;
   overflow: auto;
-  min-height: 38rem;
+  min-height: 20rem;
   border: 1px solid steelblue;
   padding: 2rem;
   border-radius: 5px;
@@ -23,12 +23,12 @@ body{
   background: #000;
   color: #fff;
   border: none;
-  padding: 1.2rem 1.5rem;
-  margin: 1rem;
+  padding: 1rem;
+  margin: 1rem 0;
   border-radius: 5px;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family: inherit;
 }
 .btn:focus {
@@ -44,11 +44,11 @@ body{
 }
 
 .add-form{
-  margin-bottom: 5rem;
+  margin-bottom: 4rem;
 }
 
 .form-control {
-  margin: 2.5rem 0;
+  margin: 0;
 }
 
 .form-control label {

@@ -1,21 +1,27 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "task": "Study JavaScript",
-      "category": "Faculdade",
+      "id": "4c9f",
+      "task": "Study C#",
+      "category": "University",
+      "finished": true
+    },
+    {
+      "id": "bfab",
+      "task": "Study Java",
+      "category": "Work",
+      "finished": true
+    },
+    {
+      "id": "9ca0",
+      "task": "Workout",
+      "category": "Gym",
       "finished": false
     },
     {
-      "id": "5b9c",
-      "task": "Teste",
-      "category": "laisure",
-      "finished": false
-    },
-    {
-      "id": "aa9d",
-      "task": "Workout harder",
-      "category": "gym",
+      "id": "2a09",
+      "task": "Play Guitar",
+      "category": "Laisure",
       "finished": false
     }
   ]

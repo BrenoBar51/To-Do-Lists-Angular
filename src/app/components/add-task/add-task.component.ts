@@ -13,7 +13,6 @@ import { CommonModule } from '@angular/common';
 export class AddTaskComponent {
   @Output() onAddTask = new EventEmitter<Task>();
 
-
   task: string = '';
   category: string = '';
   finished: boolean = false;
